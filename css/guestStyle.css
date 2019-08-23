@@ -1,0 +1,28 @@
+
+@font-face {
+  font-family: nexalight;
+  src: url("../fonts/nexa/nexalight.otf") format("opentype");
+}
+
+@font-face {
+  font-family: nexabold;
+  src: url("../fonts/nexa/nexabold.otf") format("opentype");
+}
+
+
+
+.guestCard{
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0,0, 0, 0.19);
+   font-family: nexalight;
+   background-repeat:no-repeat;
+   height: 380px;
+   background-size: cover;
+   margin-top: 25px;
+  background-size: cover;
+  background-position: center;
+  
+}
+.guestCardGradient{
+  background-image: linear-gradient(-180deg, rgba(0,0,0,0.4), rgba(0,0,0,1)); 
+  height: 100%;
+}
