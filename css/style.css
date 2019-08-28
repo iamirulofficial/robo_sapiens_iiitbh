@@ -320,8 +320,8 @@
         bottom: 0;
         left: 0;
         right: 0;
-        -webkit-animation: spin 10s linear infinite;
-                animation: spin 10s linear infinite;
+        -webkit-animation: spin 5s linear infinite;
+                animation: spin 5s linear infinite;
       }
       @-webkit-keyframes spin {
         0% { -webkit-transform: rotate(0deg); transform: rotate(0deg); }
